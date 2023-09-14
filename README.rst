@@ -22,12 +22,14 @@ Building documentation using Sphinx (Python Documentation Generator)
 https://www.sphinx-doc.org/en/master/index.html
 
 Created new conda env
-``` 
+
+```
 $ mamba create -n crispr-docs  python=3.9 sphinx=7.2.5 sphinx_rtd_theme=1.3.0
 $ mamba activate crispr-docs
 ```
 
-Created source directory and conf.py
+Inititated Sphinx documentation
+
 ```
  $ cd /home/niek/Dropbox/scripts/crispr-docs
  $ sphinx-quickstart
