@@ -1,6 +1,7 @@
 
 
-This page will a brief summary of considerations for CRISPR-Cas9 screen experimental design. Please refer to Hanna and Doench (2020) and Doench (2018) for more details (see references below).
+
+This page will give a summary of considerations for CRISPR-Cas9 screen experimental design.
 
 
 
